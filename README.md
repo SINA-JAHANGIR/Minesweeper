@@ -50,7 +50,7 @@ gcc -o minesweeper Minesweeper.c
 
 ---
 
-
+## 📷 Screenshots
 ![Minesweeper Screenshot](Screenshots/Minesweeper-Screenshot-1.png)
 
 ![Minesweeper Screenshot](Screenshots/Minesweeper-Screenshot-2.png)
